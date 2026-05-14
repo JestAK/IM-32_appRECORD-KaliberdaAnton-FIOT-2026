@@ -4,10 +4,10 @@
     "subjectLine": "з дисципліни «WEB-ОРІЄНТОВАНІ ТЕХНОЛОГІЇ. BACKEND РОЗРОБКИ»"
   },
   "student": {
-    "fullName": "Прізвище Ім’я По батькові",
-    "group": "Іx-xx",
+    "fullName": "Каліберда Антон Дмитрович",
+    "group": "ІM-32",
     "gender": "male",
-    "photo": "/students/chad.jpg"
+    "photo": "/students/photo.jpg"
   },
   "toc": {
     "minDepth": 2,
